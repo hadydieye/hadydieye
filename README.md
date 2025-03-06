@@ -1,5 +1,6 @@
-# 💫 About Me:
-        Je suis un développeur logiciel qualifié avec de l'expérience en TypeScript et JavaScript, et une expertise dans des frameworks comme React, Node.js, et Three.js. J'apprends rapidement et je collabore étroitement avec les clients pour créer des solutions efficaces, évolutives et conviviales qui résolvent des problèmes réels. Travaillons ensemble pour donner vie à vos idées !
+# 💫 About Me
+Je suis un développeur logiciel qualifié avec de l'expérience en TypeScript et JavaScript, et une expertise dans des frameworks comme React, Node.js, et Three.js.
+J'apprends rapidement et je collabore étroitement avec les clients pour créer des solutions efficaces, évolutives et conviviales qui résolvent des problèmes réels. Travaillons ensemble pour donner vie à vos idées !
 
 
 # 💻 Tech Stack:
